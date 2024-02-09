@@ -1,4 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-10-reasons-why-use-typescript-react-alireza-sarkar&psig=AOvVaw10Xo05MndrrZKRYwZmvnko&ust=1707589783459000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODsweTxnoQDFQAAAAAdAAAAABAE)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hi 👋, I'm Ehed</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
